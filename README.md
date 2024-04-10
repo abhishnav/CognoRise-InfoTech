@@ -26,7 +26,7 @@ The dataset used for this project is sourced from Kaggle and contains various fe
 This project focuses on predicting cinema ticket sales using machine learning techniques.
 
 ### Dataset
-The dataset used for this project is sourced from and contains various features related to cinema screenings such as show timings, movie genres, location, and ticket sales.
+The dataset used for this project is sourced from kaggle and contains various features related to cinema screenings such as show timings, movie genres, location, and ticket sales.
 
 ### Techniques Utilized
 - Data Preprocessing: Handling missing values, encoding categorical variables, and splitting the dataset into training and testing sets.
